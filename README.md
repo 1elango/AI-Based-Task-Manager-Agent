@@ -32,7 +32,7 @@ The system is built using a modular architecture:
 
 1. Clone this repository:
 ```bash
-https://github.com/1elango/AI-Based-Task-Manager-Agent.git
+git clone https://github.com/1elango/AI-Based-Task-Manager-Agent.git
 cd AI-Based-Task-Manager-Agent
 ```
 
